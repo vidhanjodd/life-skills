@@ -19,6 +19,6 @@ These constraints allow for scalable and maintainable web services that are used
 
 ## References
 
-- [REST - Wikipedia](https://en.wikipedia.org/wiki/REST) [web:3]
-- [What is a REST API? (BrowserStack)](https://www.browserstack.com/guide/rest-api) [web:1]
+- [REST - Wikipedia](https://en.wikipedia.org/wiki/REST)
+- [What is a REST API? (BrowserStack)](https://www.browserstack.com/guide/rest-api)
 - [REST API Tutorial (restfulapi.net)](https://restfulapi.net)
