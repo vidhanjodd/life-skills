@@ -4,18 +4,18 @@ REST is an acronym for Rpresentational State Transfer and is a simple method of 
 
 ## Core Components of REST Architecture
 
-- **Client: Sends requests for resources.
-- **Server: Hosts and serves resources.
-- **Resource: Any  info or object is accessible via the API.
-- **HTTP Methods: it has standard operations like GET, POST, PUT, DELETE.
+- Client: Sends requests for resources.
+- Server: Hosts and serves resources.
+- Resource: Any  info or object is accessible via the API.
+- HTTP Methods: it has standard operations like GET, POST, PUT, DELETE.
 
 ## Benefits of Using Rest Architecture
 
-- **Scalability: It is scalable because it decouples Client And Server, that helps in scaling on Platforms like AWS or Kubernetes.
-- **Flexibility: It works on any platform mobile, web. 
-- **Performance: It is fast in speed, reliable and efficient.
-- **Less Complexity: Becuase it avoids SOAP and WSDL
-- **Stateless: Each and Every request is independent.
+- Scalability: It is scalable because it decouples Client And Server, that helps in scaling on Platforms like AWS or Kubernetes.
+- Flexibility: It works on any platform mobile, web. 
+- Performance: It is fast in speed, reliable and efficient.
+- Less Complexity: Becuase it avoids SOAP and WSDL
+- Stateless: Each and Every request is independent.
 
 ## Why Use REST
 
