@@ -1,24 +1,26 @@
-# REST Architecture Overview
+REST Architecture
 
-Representational State Transfer (REST) is an architectural style for networked applications, proposed by Roy Fielding in 2000. It focuses on a stateless client-server architecture where resources are addressed using URIs and manipulated using standard HTTP verbs such as GET, POST, PUT, and DELETE.
+REST is an acronym for Rpresentational State Transfer and is a simple method of creating web services. Here’s how it works: Everything is a resource (users, products, posts) with a web address.
 
-## Architectural Constraints
+## Core Components of REST Architecture
 
-The main constraints are:
+- **Client: Sends requests for resources.
+- **Server: Hosts and serves resources.
+- **Resource: Any  info or object is accessible via the API.
+- **HTTP Methods: it has standard operations like GET, POST, PUT, DELETE.
 
-- **Statelessness**: Every request is self-contained, holding all the information needed.
-- **Uniform Interface**: Uniform access to resources using standard methods.
-- **Cacheability**: Responses can be cached for optimization purposes.
-- **Layered System**: Scalability using layered components.
-- **Code on Demand** (optional): Server can send code to clients for execution.
-- **HATEOAS** (optional): Hypermedia as the engine of application state.
+## Benefits of Using Rest Architecture
 
-## Advantages and Applications
+- **Scalability: It is scalable because it decouples Client And Server, that helps in scaling on Platforms like AWS or Kubernetes.
+- **Flexibility: It works on any platform mobile, web. 
+- **Performance: It is fast in speed, reliable and efficient.
+- **Less Complexity: Becuase it avoids SOAP and WSDL
+- **Stateless: Each and Every request is independent.
 
-These constraints allow for scalable and maintainable web services that are used by most modern APIs. REST assumes that everything is a resource with a representation (usually JSON/XML), emphasizing simplicity and interoperability on the Web.
+## Why Use REST
+
+Becuase it is scalable, flexible and also gives high performance, also it is loose coupled. Requests are independent of each other.    
 
 ## References
-
-- [REST - Wikipedia](https://en.wikipedia.org/wiki/REST)
-- [What is a REST API? (BrowserStack)](https://www.browserstack.com/guide/rest-api)
-- [REST API Tutorial (restfulapi.net)](https://restfulapi.net)
+- [REST Tutorial](https://restfulapi.net)
+- [Advantage Of REST](https://chakray.com/advantages-of-rest-api)
