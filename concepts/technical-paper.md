@@ -1,4 +1,4 @@
-REST Architecture
+# REST Architecture
 
 REST is an acronym for Rpresentational State Transfer and is a simple method of creating web services. Here’s how it works: Everything is a resource (users, products, posts) with a web address.
 
