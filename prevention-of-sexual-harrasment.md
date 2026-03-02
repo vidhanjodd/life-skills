@@ -1,4 +1,4 @@
-# Preventio of Sexual Harrasment
+# Prevention of Sexual Harrasment
 
 ## What kinds of behaviour cause sexual harassment?
 
